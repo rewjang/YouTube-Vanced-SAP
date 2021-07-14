@@ -1,0 +1,4 @@
+- based on v16.02.35
+- all ads now blocked, including under video ads (for now)
+- added the option to add buttons to the video player to copy the video link with or without the timestamp
+- bug fixes
