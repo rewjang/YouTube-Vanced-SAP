@@ -1,9 +1,0 @@
-       
-       
-            @@@@@@@@@@@@@@@       Split APKs Packer  -  v6.9.0 by Kirlif'       @@@@@@@@@@@@@@@
-       
-       
-   ...Checking the bundle in...
-          C:/Users/Tong/Desktop/Dropbox/Acer/YouTube/Youtube.Vanced/v16.02.35/nonroot
-       
-          !!! Nothing to do here !!!
