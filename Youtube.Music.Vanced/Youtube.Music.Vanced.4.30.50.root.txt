@@ -1,0 +1,7 @@
+- increased base to 4.30.50
+- added a toggle to enable or disable ads (thanks to Oizaro)
+- added enforce shuffling mod (thanks to Oizaro)
+- removed the home page box setup related to contents based on user tastes (thanks to Oizaro)
+- added a more coherent icon with the vanced products remainder (thanks to Logan)
+
+MD5: 9980B1D69B4025617859650519A7A501

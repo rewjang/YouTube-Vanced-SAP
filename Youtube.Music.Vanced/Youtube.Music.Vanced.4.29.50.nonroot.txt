@@ -1,0 +1,5 @@
+- increased base to 4.29.50
+- added a new header icon
+- added the following mods: tablet mode, compact header. (thanks to Oizaro)
+
+MD5: 887F55075EA0F1B873D652B2723C448A

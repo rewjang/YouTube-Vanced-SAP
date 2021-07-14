@@ -1,0 +1,5 @@
+- increased base to 4.30.51
+- fixed mods toggles default value (thanks to xfileFIN)
+- ads toggle has been moved to the bottom of mods settings list
+
+MD5: 2317B0ED8C98D6E9588CA9F68FB8CFF4
