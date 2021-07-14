@@ -1,0 +1,7 @@
+- Rewrite root split installer
+- Fixed MIUI warning not appearing on some MIUI devices
+- Fixed flickering on the welcome screen
+- Removed gradient outline from sponsor buttons
+- Improved performance, as usual
+
+MD5: 10B4822BDA3490F266E17B5EB5CC60D9
