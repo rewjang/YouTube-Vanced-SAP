@@ -1,0 +1,8 @@
+Vanced MicroG v0.2.13
+@KevinX8 KevinX8 released this on Oct 21, 2020
+
+- Updated to the latest upstream.
+- Updated to the latest dependencies.
+- Added Spanish translation.
+- Fixed a bug with log-in on Huawei devices.
+- Fixed a bug where MicroG doesn't fetch notifications after a force close.

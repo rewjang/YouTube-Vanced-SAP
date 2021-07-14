@@ -1,0 +1,10 @@
+Vanced Manager 2.0
+@KevinX8 KevinX8 released this on Nov 13, 2020
+
+- Whole new UI
+- Added a version selector for Vanced and Music #80
+- Added YT Music root variant
+- Added detection of already downloaded files for nonroot (due to complexity of root installer, it's not possible to detect downloaded files properly, yet) #185
+- Fixed Music downloader #228
+- Fixed manager language selector #191
+- Various bug fixes and performance improvements

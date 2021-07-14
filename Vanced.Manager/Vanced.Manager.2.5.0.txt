@@ -1,0 +1,9 @@
+Vanced Manager 2.5.0
+@KevinX8 KevinX8 released this on Feb 16
+
+- Rewrote non-root split apk installer from scratch
+- Optimised root split apk installer
+- MIUI warning now appears only when optimizations are enabled
+- Tweaked colours in the log menu to satisfy light theme users
+- Fixed downloader progress bar going brrrrr when rotating screen
+- Fixed dialogs not appearing after screen rotate on MIUI

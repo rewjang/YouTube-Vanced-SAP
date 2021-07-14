@@ -1,0 +1,12 @@
+Vanced Manager 2.4.0
+@KevinX8 KevinX8 released this on Feb 5
+
+- Added a Guide button
+- Added a menu for logs (save button saves logs under /Android/data/com.vanced.manager/logs)
+- Added a warning for Music v4.11 and higher
+- Themed slider in root script timer dialogue
+- Fixed a bug when notification switch would be left checked when the app was unchecked on setup (unless the user manually changes notification switch for that app)
+- Fixed incorrect error message on app downgrade
+- Fixed some background crashes
+- Possibly fixed dialogue being stuck on "please wait" when an exception occurs
+- Adjusted some strings

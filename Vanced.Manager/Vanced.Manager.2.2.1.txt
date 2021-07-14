@@ -1,0 +1,5 @@
+Vanced Manager 2.2.1
+@KevinX8 KevinX8 released this on Jan 17
+
+- Fixed various crashes
+  (Keep in mind that manager updater is broken in 2.2.0 so manual install required)

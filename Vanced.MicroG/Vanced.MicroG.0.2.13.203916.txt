@@ -1,0 +1,5 @@
+Vanced MicroG v0.2.13-203916
+@VancedOfficial VancedOfficial released this on Oct 23, 2020
+
+- Fixed a bug causing reboot on Oreo devices
+- Fixed Android 11 SQLDatabase read crash

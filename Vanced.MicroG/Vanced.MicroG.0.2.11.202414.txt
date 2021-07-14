@@ -1,0 +1,6 @@
+Vanced MicroG v0.2.11
+@KevinX8 KevinX8 released this on Jul 29, 2020
+
+- updated to upstream microg 0.2.11
+- fixed chromecast issue
+- improved background notification

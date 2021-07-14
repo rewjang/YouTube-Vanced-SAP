@@ -1,0 +1,5 @@
+Vanced MicroG 0.2.14-204216
+@KevinX8 KevinX8 released this on Dec 3, 2020
+
+- Fixed a bug where stock microg couldn't be installed together with vanced microg.
+- Improved battery notification info.

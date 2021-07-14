@@ -1,0 +1,5 @@
+Vanced MicroG v0.2.18
+@KevinX8 KevinX8 released this on Mar 18
+
+- Added icon hider (on by default, doesn't hide for every ROM, on Huawei it's forced visible to allow for battery optimisations)
+- Bumped version

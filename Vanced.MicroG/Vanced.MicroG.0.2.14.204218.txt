@@ -1,0 +1,5 @@
+Vanced MicroG 0.2.14-204218
+@KevinX8 KevinX8 released this on Dec 11, 2020
+
+- Updated to latest upstream
+- Added icon back (for Huawei battery optimization list)

@@ -1,0 +1,13 @@
+Vanced MicroG v0.2.12
+@KevinX8 KevinX8 released this on Sep 20, 2020
+
+- Super debloated.
+- Updated dependencies.
+- Some unused resources removed.
+- Some strings are now translatable.
+- Default notification ping interval has been reduced to 2 minutes.
+- A toggle to fix double-cast has been added.
+- Some code optimizations (thanks to TacoTheDank).
+- Battery saving notification will now correctly displayed on Android M and higher versions.
+- Updated to the latest upstream. ​
+- Login on Huawei devices has been fixed.

@@ -1,0 +1,6 @@
+Vanced Manager 2.0.1
+@KevinX8 KevinX8 released this on Nov 16, 2020
+
+- Fixed issues with Android 5 and 6
+- Fixed various crashes
+- Improved performance

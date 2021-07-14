@@ -1,0 +1,5 @@
+Vanced MicroG v0.2.16
+@KevinX8 KevinX8 released this on Dec 28, 2020
+
+- added a new icon
+- merged with upstream

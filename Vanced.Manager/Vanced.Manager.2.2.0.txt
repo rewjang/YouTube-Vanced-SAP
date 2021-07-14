@@ -1,0 +1,10 @@
+Vanced Manager 2.2.0
+@KevinX8 KevinX8 released this on Jan 17
+
+- Added ability to adjust root script timer
+- Added an app launch button
+- Improved root installer (again)
+- Updated logo (again)
+- Fixed issues with downloader
+- UI fixes and improvements
+- Stock YouTube/Music apps should no longer show up as installed

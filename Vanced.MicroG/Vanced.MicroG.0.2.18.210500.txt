@@ -1,3 +1,6 @@
+Vanced MicroG v0.2.18.210500
+@KevinX8 KevinX8 released this on Apr 27
+
 - update to latest upstream
 - fix missing class
 

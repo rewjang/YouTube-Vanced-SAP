@@ -1,0 +1,5 @@
+Vanced MicroG 0.2.14
+@KevinX8 KevinX8 released this on Nov 23, 2020
+
+- Updated to the latest upstream.
+- Fixed video uploading.

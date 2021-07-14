@@ -30,7 +30,7 @@ Expert Users
 YouTube Vanced Nonroot SAP by Sappurit
 -----------------------------------------------------------------------------------------------------
 • Standalone Android Package (SAP)
-● Android App Bundle Repacked (Split APKs Packer v6.9.0)
+• Android App Bundle Repacked (Split APKs Packer v6.9.0)
 • DPI: none
 • Type: nonroot
 • Base: black, dark

@@ -1,0 +1,14 @@
+Vanced Manager 2.1.0
+@KevinX8 KevinX8 released this on Dec 19, 2020
+
+- Fixed root for most users #212
+- Added accent colour picker (because why not), closes #67
+- Enhanced home screen UI
+- Locked app to portrait (also fixes #314)
+- Updated manager logo
+- Improved data fetching
+- Improved root uninstaller
+- Removed DataBinding in favour of ViewBinding
+- Removed Observable Fields in favour of LiveData and MutableLiveData
+- Cleaned up old stuff
+- Switched to a new downloader
