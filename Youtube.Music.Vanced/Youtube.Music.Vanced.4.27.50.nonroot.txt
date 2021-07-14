@@ -1,0 +1,5 @@
+- increased base to 4.27.50
+- added the following mods: shadow navbar, seamed players, zen mode, enforce repeating (thanks to Oizaro)
+- launcher icon size has been fixed (thanks to Milind)
+
+MD5: 8E3DBB9EEC31C5AA1CBAAAEA0EFB8045

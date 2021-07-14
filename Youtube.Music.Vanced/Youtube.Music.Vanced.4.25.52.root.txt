@@ -1,0 +1,4 @@
+- increased base to 4.25.52
+- fixed battery drain issue for real this time
+
+MD5: ADFC6F48B99D20D35199D73F0993CB7D
