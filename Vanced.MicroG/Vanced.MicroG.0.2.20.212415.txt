@@ -1,0 +1,4 @@
+- update to latest upstream
+- improved gcm reliability
+
+MD5: 79E36EE5FE0A96BA7AB0C3FCDBC62929

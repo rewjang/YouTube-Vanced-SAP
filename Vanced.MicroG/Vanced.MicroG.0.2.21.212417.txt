@@ -1,0 +1,4 @@
+- Migrate some settings to the new service provider (to avoid settings overwriting)
+- Change settings provider name to allow installation with original MicroG
+
+MD5: 02114C63AD07D2BEC58AE225B0EBDD43

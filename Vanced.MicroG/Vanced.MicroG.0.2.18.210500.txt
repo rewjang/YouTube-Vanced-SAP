@@ -1,0 +1,4 @@
+- update to latest upstream
+- fix missing class
+
+MD5: 6B8A808E931A7D47C4C54B12191AFB02
