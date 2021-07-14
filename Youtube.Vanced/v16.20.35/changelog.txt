@@ -1,0 +1,9 @@
+- Bumped base (also fixes Bluetooth media controls and swipe to seek is now the default)
+- Fixed brightness in swipe controls
+- Bring back old video quality menu (Set to ON by default but toggleable from vanced settings > video settings)
+- Permanently unlocked "made for kids" playback in mini-player (Thanks to oizaro)
+- Fixed preferred video quality in portrait/vertical videos.
+- Fixed broken buffer settings
+KNOWN ISSUES:
+- casting to Chromecast still broken on nonroot due to microG, it will need to be patched upstream first. Switch to root version or use stock youtube for now (vanced does not block casting ads anyway)
+- Swipe down to refresh (it's a litho bug)
