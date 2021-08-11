@@ -1,0 +1,6 @@
+- Bumped base
+- added the following translations to vanced settings: Slovak, Romanian, Polish, Korean, Italian, Indonesian, Greek, German, Finnish, Dutch, Czech, Bulgarian, Azerbaijani, Japanese. (thanks to Oizaro)
+- unlocked mini-player for kids songs (thanks to Oizaro)
+- fixed login for some Android 11 devices (thanks to Oizaro)
+
+MD5: 42F35E26827B2393284BAA2F439F76DA

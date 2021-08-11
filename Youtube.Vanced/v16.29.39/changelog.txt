@@ -1,0 +1,11 @@
+- Bumped base 
+-SPONSORBLOCK (thanks to cane):
+- fixed buttons after watching shorts
+- added preview category
+- added length of the video without segments next to the total time
+- added stats to SB settings
+- made segment categories color customizable 
+- added support for importing-exporting settings
+KNOWN ISSUES:
+- casting to Chromecast still broken on nonroot due to microG, it will need to be patched upstream first. Switch to root version or use stock youtube for now (vanced does not block casting ads anyway)
+- Swipe down to refresh (it's a litho bug)
