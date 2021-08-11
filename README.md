@@ -10,16 +10,18 @@ adb install-multiple -r dark.apk split_config.arm64_v8a.apk split_config.en.apk
 
 adb uninstall com.vanced.android.youtube  
 adb uninstall com.mgoogle.android.gms  
+
 adb shell pm uninstall -k com.vanced.android.youtube  
+adb shell pm uninstall -k com.mgoogle.android.gms
 
 *******************************************************************************************
 
-install  
+Install  
 -r: Reinstall an existing app, keeping its data.  
 -d: Allow version code downgrade.  
 
-uninstall   
--k: Keep the data and cache directories around after package removal.  same signature only.  
+Uninstall   
+-k: Keep the data and cache directories around after package removal. Same signature only.  
 
 *******************************************************************************************
 
