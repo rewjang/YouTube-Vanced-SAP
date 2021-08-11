@@ -1,5 +1,9 @@
 
 
+set G=0.2.21.212417
+set V=16.29.39
+
+
 @echo.
 @echo.
 @echo =======================================================
@@ -20,14 +24,12 @@
 
 @pause
 
+adb devices
 
-set G=0.2.18.210500
-set V=16.20.35
-
+@pause
 
 adb install          -r  Vanced.MicroG\Vanced.MicroG.%G%.apk
 adb install-multiple -r  Youtube.Vanced\v%V%\nonroot\Arch\split_config.arm64_v8a.apk  Youtube.Vanced\v%V%\nonroot\Language\split_config.en.apk Youtube.Vanced\v%V%\nonroot\Theme\dark.apk
-
 
 @pause
 
