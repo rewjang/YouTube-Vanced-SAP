@@ -38,7 +38,6 @@ YouTube Vanced Nonroot SAP by Sappurit
 • Languages: en, th
 • Release by Sappurit
 
-http://tiny.cc/vanced
-http://www.mediafire.com/folder/vhgfebee9jiz9/YouTube.Vanced
+https://github.com/Sappurit/YouTube-Vanced-SAP
 
 

@@ -21,7 +21,6 @@ set V=16.29.39
 @echo.
 @echo.
 
-
 @pause
 
 adb devices
