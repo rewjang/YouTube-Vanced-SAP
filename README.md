@@ -3,14 +3,13 @@ adb devices
 
 *******************************************************************************************
 
-adb install          -r Vanced.MicroG.0.2.16.204713.apk  
+adb install          -r Vanced.MicroG.apk  
 adb install-multiple -r dark.apk split_config.arm64_v8a.apk split_config.en.apk  
 
 *******************************************************************************************
 
 adb uninstall com.vanced.android.youtube  
 adb uninstall com.mgoogle.android.gms  
-adb clear     com.ea.gp.fifamobile  
 
 *******************************************************************************************
 
