@@ -1,0 +1,7 @@
+- Added Android 12 support
+- Added a confirmation dialog for uninstalling
+- Fixed a bug with the save button going offscreen when the versions list was too large
+- Removed all Crowdin libraries (didn't function correctly)
+- Small optimizations
+
+MD5: E75FF687333D8DF2DC8829D950D14EEB
