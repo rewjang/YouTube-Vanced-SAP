@@ -1,0 +1,5 @@
+- Fixed root installer for some users
+- App now checks for magisk and displays and error message if it's not detected
+- Various optimizations
+
+MD5: 02A2FF9E69D85DE4DAD105213F620382
