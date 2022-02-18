@@ -1,0 +1,20 @@
+- Bumped base 
+- ReturnYouTubeDislike integration
+- Channel whitelisting for video ads
+- Improved ad-blocking
+- Comments location (alpha) has been removed (because Google pushed new comments to tablet UI)
+- Added tablet style under swipe controls for partially disabling recommended videos in landscape mode and other tablet styled UI
+- Added support for themed icon (Android 13+)
+
+Sponsorblock changes:
+- added support for channel whitelisting (see the "Channel whitelisting" toggle in sb settings
+- added support for setting the minimum segment duration
+- added the filler category
+- replaced the "Change colors" button with a text field inside of each category's setting
+- 403 messages (warns, locked video/segment) will now be properly displayed
+- added an option to enable SB browser button.
+- option to change the API URL
+
+KNOWN ISSUES:
+- For some users (around 15%) google has pushed out a UI update that breaks RYD and any other vanced buttons added below videos
+- all the usual previous issues relating to Chromecast and swipe down to refresh.
